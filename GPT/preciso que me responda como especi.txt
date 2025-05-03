@@ -1,0 +1,9 @@
+preciso que me responda como especialista em programação em arduino.
+a) Preciso de um código para arduino esp8266 nodemcu para acionar um servo motor de 45 em 45 minutos de zero a 60 graus, mas...
+b) preciso de um botão para trocar o tempo de acionamento do servo.
+por padrão ele aciona o servo motor de 45 m 45 minutos, se clicar uma vez muda o tempo para de 30 em 30 minutos, e se clicar mais uma vez, muda para de 15 em 15 minutos.
+c)cada tempo precisa ligar um led, 45 minutos o led verde, 30 minutos o led amarelo e 15 minutos o led vermelho.
+d)ele precisa conectar a internet para poder ser atualizado via ota pelo nome a escolher
+e) ele precisa se conectar a um provedor ntp para saber qual é o dia da semana 
+f) sabendo qual é o dia da semana, preciso de outro botão para alternar entre, ligar todos os dias e ligar somente aos finais de semana, sábado e domingo.
+g)precisa ligar de um led azul para quando acionar só final de semana e um led branco para se estiver programado para acionar o servo todos os dias
